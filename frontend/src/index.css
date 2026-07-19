@@ -1,1 +1,32 @@
 @import "tailwindcss";
+
+:root {
+  --ink: #0B1220;
+  --ink-hover: #141B2D;
+  --paper: #F6F7FB;
+  --signal: #0F9B8E;
+  --amber: #F59E0B;
+  --danger: #EF4444;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--paper);
+}
+
+.font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 rgba(15, 155, 142, 0.5); }
+  70% { box-shadow: 0 0 0 8px rgba(15, 155, 142, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(15, 155, 142, 0); }
+}
+.shield-pulse { animation: pulse-ring 2.5s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-in { animation: fade-in-up 0.35s ease-out both; }
