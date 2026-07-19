@@ -1,0 +1,62 @@
+text,category
+Zomato dinner order,Food
+Swiggy lunch order,Food
+McDonalds burger meal,Food
+Dominos pizza order,Food
+Starbucks coffee,Food
+BigBasket groceries,Food
+Zomato food delivery,Food
+Swiggy dinner,Food
+Local restaurant bill,Food
+Cafe coffee and snacks,Food
+Uber ride to airport,Transport
+Uber ride home,Transport
+Ola cab booking,Transport
+Ola cab to office,Transport
+Rapido bike taxi,Transport
+Metro card recharge,Transport
+Bus ticket booking,Transport
+Auto rickshaw fare,Transport
+Uber ride to station,Transport
+Taxi fare payment,Transport
+Petrol pump fuel,Fuel
+Indian Oil fuel refill,Fuel
+HP petrol station,Fuel
+Diesel refill car,Fuel
+Bike fuel top up,Fuel
+Amazon shopping order,Shopping
+Flipkart purchase,Shopping
+Myntra clothes order,Shopping
+Amazon electronics order,Shopping
+Flipkart mobile purchase,Shopping
+Online shopping order,Shopping
+Ajio fashion purchase,Shopping
+Netflix subscription,Entertainment
+Spotify premium,Entertainment
+BookMyShow movie tickets,Entertainment
+PVR cinema tickets,Entertainment
+Amazon Prime subscription,Entertainment
+YouTube premium,Entertainment
+Gaming subscription,Entertainment
+Apollo Pharmacy medicines,Healthcare
+Hospital consultation fee,Healthcare
+Medical checkup,Healthcare
+Pharmacy bill payment,Healthcare
+Gym membership fee,Healthcare
+Doctor appointment fee,Healthcare
+Diagnostic lab test,Healthcare
+Electricity bill payment,Utilities
+Water bill payment,Utilities
+Gas cylinder booking,Utilities
+Electricity board payment,Utilities
+Internet bill Airtel,Bills
+Mobile recharge Jio,Bills
+Rent payment,Bills
+Broadband bill payment,Bills
+Credit card bill payment,Bills
+Insurance premium payment,Bills
+Salary credited,Others
+Freelance payment received,Others
+Bank interest credited,Others
+Cashback received,Others
+Refund received,Others
